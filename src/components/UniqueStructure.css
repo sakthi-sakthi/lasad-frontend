@@ -1,0 +1,33 @@
+/* Feature item styles */
+.feature-item {
+  margin-bottom: 20px;
+}
+
+.feature-icon {
+  max-width: 100px; /* Adjust the size of feature icons */
+}
+
+.feature-text {
+  color: #087a3e;
+  font-family: Trajan-Pro-Regular !important;
+  font-size: 21px;
+  cursor: pointer; /* Set text color */
+}
+
+.feature-text:hover {
+  color: #b54191 !important; /* Set text color */
+}
+
+/* Feature image styles */
+.feature-image {
+  max-width: 100%; /* Ensure images are responsive */
+}
+
+.image-caption {
+  font-size: 14px; /* Adjust font size for image captions */
+  color: #666; /* Set caption text color */
+}
+
+.feature-text + .feature-text {
+  margin-top: 10px; /* Adjust the spacing between texts */
+}

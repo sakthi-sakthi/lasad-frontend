@@ -1,0 +1,172 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "title": "THE LEAVENING PROJECT",
+            "image": "/images/publication/leavning.PNG",
+            "url": "/leavning-project",
+            "pdf": ""
+        },
+        {
+            "id": 2,
+            "title": "2020 – DECLARATION ON THE LASALLIAN EDUCATIONAL MISSION",
+            "image": "/images/publication/educationmission.JPG",
+            "url": "",
+            "pdf": "/images/publication/educationmission.pdf"
+        },
+        {
+            "id": 3,
+            "title": "DOCUMENTS FOR THE 46th GENERAL CHAPTER",
+            "image": "/images/publication/46.PNG",
+            "url": "/general-chapter",
+            "pdf": ""
+        },
+        {
+            "id": 4,
+            "title": "2020 – IDENTITY CRITERIA FOR THE VITALITY OF LASALLIAN EDUCATIONAL MINISTRIES",
+            "image": "/images/publication/2020.JPG",
+            "url": null,
+            "pdf": "/images/publication/identity.pdf"
+        },
+        {
+            "id": 5,
+            "title": "LASALLIAN WOMEN'S NEEDS ASSESSMENT SURVEY REPORT",
+            "image": "/images/publication/5.PNG",
+            "url": null,
+            "pdf": "/images/publication/womensurveyreport.pdf"
+        },
+        {
+            "id": 6,
+            "title": "BULLETIN",
+            "image": "/images/publication/6.PNG",
+            "url": "/bulletin",
+            "pdf": ""
+        },
+        {
+            "id": 7,
+            "title": "CIRCULAR LETTERS",
+            "image": "/images/publication/7.PNG",
+            "url": null,
+            "pdf": ""
+        },
+        {
+            "id": 8,
+            "title": "INTERCOM",
+            "image": "/images/publication/8.PNG",
+            "url": null,
+            "pdf": ""
+        },
+        {
+            "id": 9,
+            "title": "MEL BULLETINS",
+            "image": "/images/publication/9.PNG",
+            "url": "/bulletinmel",
+            "pdf": ""
+        },
+        {
+            "id": 10,
+            "title": "PASTROL LETTERS",
+            "image": "/images/publication/10.PNG",
+            "url": "/pastoral",
+            "pdf": ""
+        },
+        {
+            "id": 11,
+            "title": "RULE",
+            "image": "/images/publication/11.PNG",
+            "url": null,
+            "pdf": "/images/publication/therule.pdf"
+        },
+        {
+            "id": 12,
+            "title": "2020 – LASALLIAN MISSION MOVING FORWARD PLAN",
+            "image": "/images/publication/12.JPG",
+            "url": null,
+            "pdf": ""
+        },
+        {
+            "id": 13,
+            "title": "LASALLIAN FAMILY-CIAMEL",
+            "image": "/images/publication/13.JPG",
+            "url": null,
+            "pdf": ""
+        },
+        {
+            "id": 14,
+            "title": "FORMATION HANDBOOK",
+            "image": "/images/publication/14.JPG",
+            "url": null,
+            "pdf": ""
+        },
+        {
+            "id": 15,
+            "title": "WALKING TOGETHER",
+            "image": "/images/publication/15.JPG",
+            "url": "https://drive.google.com/drive/folders/18m1UTYXlZIv1ELIs2rWjsCYAvzYEd5zv",
+            "pdf": ""
+        },
+        {
+            "id": 16,
+            "title": "GOVERNMENT & ANIMATION",
+            "image": "/images/publication/16.PNG",
+            "url": "/government-animation",
+            "pdf": ""
+        },
+        {
+            "id": 17,
+            "title": "CAHIER LASALLIEN",
+            "image": "/images/publication/17.PNG",
+            "url": "/cahiers-lasalliens",
+            "pdf": ""
+        },
+        {
+            "id": 18,
+            "title": "DIGITAL JOURNAL OF LASALLIAN RESEARCH",
+            "image": "/images/publication/18.PNG",
+            "url": null,
+            "pdf": ""
+        },
+        {
+            "id": 19,
+            "title": "FOUNDER'S WRITINGS",
+            "image": "/images/publication/19.PNG",
+            "url": "/founders-writings",
+            "pdf": ""
+        },
+        {
+            "id": 20,
+            "title": "LASALLIAN ESSAIS",
+            "image": "/images/publication/20.PNG",
+            "url": "/lasallian-essais",
+            "pdf": ""
+        },
+        {
+            "id": 21,
+            "title": "LASALLIAN LITURGICAL TEXTS",
+            "image": "/images/publication/21.PNG",
+            "url": null,
+            "pdf": ""
+        },
+        {
+            "id": 22,
+            "title": "LASALLIAN STUDIES",
+            "image": "/images/publication/22.PNG",
+            "url": null,
+            "pdf": ""
+        },
+        {
+            "id": 23,
+            "title": "LASALLIAN REFLECTION",
+            "image": "/images/publication/23.PNG",
+            "url": "/lasallian-reflection",
+            "pdf": ""
+        },
+        {
+            "id": 24,
+            "title": "LASALLIAN THEMES",
+            "image": "/images/publication/24.PNG",
+            "url": "/lasallian-themes",
+            "pdf": ""
+        }
+    ]
+}
